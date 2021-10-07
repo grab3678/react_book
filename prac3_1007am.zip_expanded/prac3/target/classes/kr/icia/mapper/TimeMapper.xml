@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- kr.icia.mapper.TimeMapper.java 와 매핑 -->
+<!-- 낯선 곳을 찾아갈때 지도를 참조. -->
+<mapper namespace="kr.icia.mapper.TimeMapper">
+	<select id="getTime3" resultType="string">
+		select sysdate sd2 from dual
+	</select>
+</mapper>  
+  

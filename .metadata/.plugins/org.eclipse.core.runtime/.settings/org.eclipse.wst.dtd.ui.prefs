@@ -1,0 +1,7 @@
+dtdComment=\#408080 | null | false | false | false | false
+dtdDefault=\#ff80c0 | null | false | false | false | false
+dtdKeyword=\#ff0080 | null | false | false | false | false
+dtdString=\#00ff00 | null | false | true | false | false
+dtdTag=\#00ffff | null | false | false | false | false
+dtdTagName=\#0080ff | null | false | false | false | false
+eclipse.preferences.version=1
